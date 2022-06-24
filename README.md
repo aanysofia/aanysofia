@@ -1,5 +1,7 @@
 ### Hi 👋, I'm Aany
 
+- ### :hammer_and_wrench: Languages and Tools :
+
 <!--
 **aanysofia/aanysofia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
