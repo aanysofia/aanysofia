@@ -1,6 +1,10 @@
 ### Hi 👋, I'm Aany
+- A professionally trained data scientist
+- An experienced scientific researcher
+- An expert in solid state NMR spectroscopy &
+- A nature lover
 
-- ### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: Languages and Tools :
 
 <!--
 **aanysofia/aanysofia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
