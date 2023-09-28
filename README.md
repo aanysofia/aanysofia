@@ -2,7 +2,6 @@
 <h1 align="center">Hi 👋, I'm Aany</h1>
 
 - A data enthusiast
-- A professionally trained data scientist
 - An experienced scientific researcher
 - An expert in solid state NMR spectroscopy &
 - A nature lover
