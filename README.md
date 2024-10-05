@@ -15,22 +15,6 @@
 
 
 
-### My Statistics
-
-<br/>
-<p align="left">
-  <a href="https://aanysofia.dev/">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=aanysofia&show_icons=true&theme=gruvbox&hide_border=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=aanysofia&theme=gruvbox&hide_border=true" />
-  </a>
-</p>
-<br>
-
-[![Aany's Activity Graph](https://activity-graph.herokuapp.com/graph?username=aanysofia&custom_title=Aany's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://aanysofia.dev)
-
-
-
-
 
 <!--
 **aanysofia/aanysofia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
